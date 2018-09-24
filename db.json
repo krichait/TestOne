@@ -7,9 +7,9 @@
   ],
    
   "vehicleRequest": [
-    { "id": 1, "reqnum": "1-1234", "num": "newthree", "ownerid"=2 },
-    { "id": 2, "reqnum": "1-5678", "num": "newone1", "ownerid"=3 },
-    { "id": 3, "reqnum": "1-8901", "num": "newtwo2", "ownerid"=1 } 
+    { "id": 1, "reqnum": "1-1234", "num": "newthree", "ownerid":2 },
+    { "id": 2, "reqnum": "1-5678", "num": "newone1", "ownerid":3 },
+    { "id": 3, "reqnum": "1-8901", "num": "newtwo2", "ownerid":1 } 
   ],
   
   "profile":{
