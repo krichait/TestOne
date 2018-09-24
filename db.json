@@ -13,7 +13,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile":{
-    "id": "ADMIN"
+    "name": "ADMIN"
   }
   
 }
