@@ -8,8 +8,12 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "tasks": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
   "profile": [
-    {"id": "ADMIN, "name": "ADMIN"},
-    {"id": "ADMIN2, "name": "ADMIN2"}
+    {"id": "ADMIN },
+    {"id": "ADMIN2 }
   ]
 }
