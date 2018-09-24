@@ -1,9 +1,11 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+{  
+   "vehicles": [
+    { "id": 1, "num": "1234567", "ownerid": 1 },
+    { "id": 2, "num": "efghijk", "ownerid": 1 },
+    { "id": 3, "num": "9876543", "ownerid": 2 },
+    { "id": 4, "num": "abcdefg", "ownerid": 3 }
   ],
+  
   "profile":{
     "name": "ADMIN"
   }
